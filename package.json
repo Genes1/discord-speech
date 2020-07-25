@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Genes1/discord-speech/issues"
   },
-  "homepage": "https://github.com/Genes1/discord-speech#readme"
+  "homepage": "https://github.com/Genes1/discord-speech#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
 }
