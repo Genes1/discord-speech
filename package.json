@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Genes1/discord-speech#readme",
   "dependencies": {
-    "discord.js": "^12.2.0"
+    "discord.js": "^12.2.0",
+    "fluent-ffmpeg": "^2.1.2"
   }
 }
